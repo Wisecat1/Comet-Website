@@ -12,7 +12,7 @@ const config = {
   //BotInvite Link
   Features: [
     {
-      name: "Moderation, giveaways, tickets and much more",
+      name: "Moderation",
       description:
         "Moderation is the process of eliminating or lessening extremes.",
       logo: <MdAddModerator className="h-10 w-10" />,
